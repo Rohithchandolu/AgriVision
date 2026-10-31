@@ -1,0 +1,12 @@
+node_modules/
+**/node_modules/
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+dist/
+build/
+datasets/raw/
+trained_models/
